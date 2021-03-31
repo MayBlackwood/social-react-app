@@ -1,3 +1,11 @@
+# Plan
+
+1) login page
+2) sign up page
+3) for admin user - main page with list of users (table with filters and sorting - choose library for this task such as lodash and etc.)
+4) for simple user - main page is list of users with ability to add to friends
+5) chat between users with websockets
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
